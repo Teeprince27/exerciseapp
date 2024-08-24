@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecondBasicCodeLab</string>
+    <string name="placeholder_search">Search</string>
+    <string name="inversion">Inversion</string>
+    <string name="meditation">Nature Meditation</string>
+    <string name="quickYoga">Quick Yoga</string>
+    <string name="Stretching">Stretching</string>
+
+
+
+</resources>
